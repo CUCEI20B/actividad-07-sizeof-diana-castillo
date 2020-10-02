@@ -11,17 +11,17 @@ int main() {
     long f;
 
     cin>>a;
+    cout<<sizeof(a)<<endl;
     cin>>b;
+    cout<<sizeof(b)<<endl;
     cin>>c;
+    cout<<sizeof(c)<<endl;
     cin>>d;
+    cout<<sizeof(d)<<endl;
     cin>>e;
+    cout<<sizeof(e)<<endl;
     cin>>f;
-    cout<<sizeof(a);
-    cout<<sizeof(b);
-    cout<<sizeof(c);
-    cout<<sizeof(d);
-    cout<<sizeof(e);
-    cout<<sizeof(f);
+    cout<<sizeof(f)<<endl;
 
     return 0;
 }
