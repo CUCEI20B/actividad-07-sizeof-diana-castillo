@@ -3,7 +3,13 @@
 using namespace std;
 
 int main() {
-    int a;
+    char a;
+    int b;
+    short c;
+    float d;
+    double e;
+    long g;
+    
     cin>>a;
     cout<<sizeof(a);
 
